@@ -92,12 +92,12 @@ dependencies:
  
  ***
  
- <img src ="lib/screen_shot/design2.png" width=330 height=650>
+ <img src ="/lib/screen_shot/design2.png" width=330 height=650>
  ***
 
   ***
  
- <img src ="lib/screen_shot/design3.png" width=330 height=650>
+ <img src ="/lib/screen_shot/design3.png" width=330 height=650>
  ***
   
 ## _Package_ _Implementation_
@@ -144,12 +144,12 @@ class MyApp extends StatelessWidget {
 ```
 ***
  
- <img src ="lib/screen_shot/design1.png" width=330 height=650>
+ <img src ="/lib/screen_shot/design1.png" width=330 height=650>
  ***
  
   ***
  
- <img src ="lib/screen_shot/design4.png" width=330 height=650>
+ <img src ="/lib/screen_shot/design4.png" width=330 height=650>
  ***
 
 ```dart
@@ -201,8 +201,6 @@ class MyApp extends StatelessWidget {
 ## _Additional_ _information_
 Added notched shape in the center of bottom navigation bar
 Created a custom class CustomNotchedShape which extends the NotchedShape class and overrides the getOuterPath method to return the desired notched path.
-The CustomNotchedShape class takes an integer parameter notchType to specify the type of notched shape.
-Created three private methods _getOuterPathType1, _getOuterPathType2, and _getOuterPathType3 to return the path for different types of notched shapes.
 Modified the BottomNavigationBar widget to use the CustomNotchedShape class for the center item.
 Added a notchRadius parameter to the CustomNotchedShape class to customize the radius of the notched shape.
 Updated the app's UI to display the new notched shape in the center of the bottom navigation bar.
