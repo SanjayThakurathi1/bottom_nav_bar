@@ -92,12 +92,12 @@ dependencies:
  
  ***
  
- <img src ="/lib/screen_shot/design2.png" width=330 height=650>
+ <img src ="/lib/screen_shot/%20design2.png" width=330 height=650>
  ***
 
   ***
  
- <img src ="/lib/screen_shot/design3.png" width=330 height=650>
+ <img src ="/lib/screen_shot/%20design3.png" width=330 height=650>
  ***
   
 ## _Package_ _Implementation_
@@ -144,12 +144,12 @@ class MyApp extends StatelessWidget {
 ```
 ***
  
- <img src ="/lib/screen_shot/design1.png" width=330 height=650>
+ <img src ="/lib/screen_shot/%20design1.png" width=330 height=650>
  ***
  
   ***
  
- <img src ="/lib/screen_shot/design4.png" width=330 height=650>
+ <img src ="/lib/screen_shot/%20design4.png" width=330 height=650>
  ***
 
 ```dart
