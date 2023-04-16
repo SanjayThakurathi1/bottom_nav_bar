@@ -1,6 +1,13 @@
+screenshots:
+  - description: 'This screenshot shows the bottom nav bar.'
+    path: lib/screen_shot/design4.png
+  - description: 'This screenshot shows '
+    path: lib/screen_shot/design2.png
+
+
 name: botton_nav_bar
 description: The botton_nav_bar library is a custom implementation of the bottom navigation bar in Flutter. The library provides a customizable bottom navigation bar widget that allows users to navigate between different screens in an application. It is built to be flexible and can be adapted to fit any app's design
-version: 0.1.5
+version: 0.1.6
 homepage: https://github.com/SanjayThakurathi1/bottom_nav_bar.git
 
 environment:
