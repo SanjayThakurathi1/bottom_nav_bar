@@ -18,7 +18,7 @@ Further improvements to the package. Customization options now include the abili
 Improved documentation to provide better understanding of the package's features and implementation. No changes to the code or functionality of the package.
 
 0.1.2
-Added notched shape in the center of bottom navigation bar. Created a custom class CustomNotchedShape which extends the NotchedShape class and overrides the getOuterPath method to return the desired notched path. Modified the BottomNavigationBar widget to use the CustomNotchedShape class for the center item. Added a notchRadius parameter to the CustomNotchedShape class to customize the radius of the notched shape. Updated the app's UI to display the new notched shape in the center of the bottom navigation bar.
+Added notched shape in the center of bottom navigation bar. Created a custom class CustomNotchedShape which extends the NotchedShape class and overrides the getOuterPath method to return the desired notched path. Modified the BottomNavigationBar widget to use the CustomNotchedShape class for the center item. 
 
 0.1.3
 Added screenshot of the package in use.
@@ -31,3 +31,8 @@ Added a third screenshot of the package in use.
 
 0.1.6
 Added a fourth screenshot of the package in use.
+
+ 
+ 0.1.8
+ update images .
+ Added a notchRadius parameter to the CustomNotchedShape class to customize the radius of the notched shape. Updated the app's UI to display the new notched shape in the center of the bottom navigation bar.
