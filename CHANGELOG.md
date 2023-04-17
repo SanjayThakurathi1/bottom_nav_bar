@@ -20,18 +20,7 @@ Improved documentation to provide better understanding of the package's features
 0.1.2
 Added notched shape in the center of bottom navigation bar. Created a custom class CustomNotchedShape which extends the NotchedShape class and overrides the getOuterPath method to return the desired notched path. Modified the BottomNavigationBar widget to use the CustomNotchedShape class for the center item. 
 
-0.1.3
-Added screenshot of the package in use.
-
-0.1.4
-Added another screenshot of the package in use.
-
-0.1.5
-Added a third screenshot of the package in use.
-
-0.1.6
-Added a fourth screenshot of the package in use.
-
+ 
  
  0.1.8
  update images .

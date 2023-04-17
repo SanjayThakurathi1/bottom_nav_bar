@@ -87,17 +87,17 @@ These parameters can be used to customize and configure the bottom navigation ba
 ## _Getting_ _started_
 ```dart
 dependencies:
-  botton_nav_bar: ^0.1.8
+  botton_nav_bar: ^0.1.9
 ```
  
  ***
  
- <img src ="https://github.com/SanjayThakurathi1/bottom_nav_bar/blob/main/lib/screen_shot/%20design2.png" width=350 height=650>
+ <img src ="https://github.com/SanjayThakurathi1/bottom_nav_bar/blob/main/images/%20design2.png" width=350 height=650>
  ***
 
   ***
  
- <img src ="https://github.com/SanjayThakurathi1/bottom_nav_bar/blob/main/lib/screen_shot/%20design3.png" width=350 height=650>
+ <img src ="https://github.com/SanjayThakurathi1/bottom_nav_bar/blob/main/images/%20design3.png" width=350 height=650>
  ***
   
 ## _Package_ _Implementation_
@@ -144,12 +144,12 @@ class MyApp extends StatelessWidget {
 ```
 ***
  
- <img src ="https://github.com/SanjayThakurathi1/bottom_nav_bar/blob/main/lib/screen_shot/design1.png" width=350 height=650>
+ <img src ="https://github.com/SanjayThakurathi1/bottom_nav_bar/blob/main/images/%20design1.png" width=350 height=650>
  ***
  
   ***
  
- <img src ="https://github.com/SanjayThakurathi1/bottom_nav_bar/blob/main/lib/screen_shot/%20design1.png" width=350 height=650>
+ <img src ="https://github.com/SanjayThakurathi1/bottom_nav_bar/blob/main/images/%20design4.png" width=350 height=650>
  ***
 
 ```dart
